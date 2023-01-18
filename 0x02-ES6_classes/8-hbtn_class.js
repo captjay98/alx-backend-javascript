@@ -13,3 +13,14 @@ class HolbertonClass {
   }
 }
 export default HolbertonClass;
+
+
+/*
+class HolbertonClass:
+    def __init__(self, size = 0, location = ''):
+        self._size = size;
+        self._location = location;
+
+        if atr == "number":
+            return self.size
+        return self.location*/

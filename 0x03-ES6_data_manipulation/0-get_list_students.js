@@ -17,3 +17,5 @@ export default function getListStudents() {
   };
   return [student1, student2, student3];
 }
+
+console.log(getListStudents());
